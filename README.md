@@ -14,10 +14,10 @@ Projeto final do curso Desenvolvimento Front End: do zero ao primeiro site do pr
 <p align= "justify"> Foi escolhido o framework Bootstrap para a criação dos componentes visuais do site como botões, menu e cards. Com o framework bootstrap facilita a implementação destes componentes mantendo um padrão visual e reutilizável.</p>
 
 <p align="center">
-  <img height="500" src="img/bootstrap1.png">
-  <img height="500" src="img/bootstrap2.png">
-  <img height="500" src="img/bootstrap3.png">
-  <img height="500" src="img/bootstrap4.png">
+  <img src="img/bootstrap1.png">
+  <img src="img/bootstrap2.png">
+  <img src="img/bootstrap3.png">
+  <img src="img/bootstrap4.png">
 </p>
 
 <br><br>
