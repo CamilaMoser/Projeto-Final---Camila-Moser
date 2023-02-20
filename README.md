@@ -28,8 +28,8 @@ Projeto final do curso Desenvolvimento Front End: do zero ao primeiro site do pr
 
 <p align= "justify"> Curabitur eget velit iaculis, ultrices lorem eget, malesuada metus. Suspendisse et justo sodales, congue turpis condimentum, interdum dui. Aliquam enim nunc, suscipit ut ante vel, finibus cursus ipsum. Aliquam erat volutpat. Maecenas est diam, lacinia vitae lacus eget, tempor hendrerit neque. Sed diam ligula, eleifend vel volutpat sed, tempus in sapien. Cras a ornare nulla, a malesuada lectus. Suspendisse potenti. Maecenas mollis dui id accumsan faucibus.</p>
 
-<p float="left" align= "center">
-  <img height="250" src="img/glassmorphism.png">
+<p align= "center">
+  <img height="400" src="img/glassmorphism.png">
 </p>
 
 <br><br>
