@@ -13,7 +13,9 @@ Projeto final do curso Desenvolvimento Front End: do zero ao primeiro site do pr
 
 <p align= "justify"> Foi escolhido o framework Bootstrap para a criação dos componentes visuais do site como botões, tipografia, links e menus. Com o framework bootstrap facilita a implementação destes componentes mantendo um padrão visual e reutilizável.</p>
 
-![Captura de tela 2023-02-13 170949](https://user-images.githubusercontent.com/118773074/218564631-b63c7259-6f14-47c1-ad3d-131e0607ec3c.png)
+
+
+![Captura de tela 2023-02-20](img/bootstrap1.png)
 
 <br><br>
 
