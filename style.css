@@ -1,0 +1,116 @@
+:root {
+    --font-titulo: 'Great Vibes', cursive;
+    --font-texto: 'Montserrat', sans-serif; 
+    --branco: #ffffff;
+    --preto: #000000;
+	--cor-texto: #F0F3F3;
+	--cor-texto2: #CDDDDE;
+}
+
+* {
+	font-family: var(--font-texto);
+}
+
+/* menu */
+.navbar {
+	background-color: var(--branco);
+	box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+}
+
+.navbar a {
+	color: var(--preto);
+	font-family: var(--font-texto);
+}
+.navbar a:hover {
+	color: var(--preto);
+	text-decoration: none;
+	border-bottom: 1px solid var(--preto);
+}
+
+
+
+/* texto hero image */
+.hero_titulo {
+	font-size: 6.5rem;
+	font-family: var(--font-titulo);
+	color: var(--cor-texto);
+}
+.hero_desc {
+	font-size: 2rem;
+	font-weight: 400;
+}
+.hero-text {
+	text-align: center;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: var(--cor-texto2);
+}
+.bgimage{
+	height: 100vh;
+	background: url('img/fundo2.jpg');
+	background-size: cover;
+	position: relative;
+}
+
+.glass {
+	height: 40%;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background: rgba(255, 255, 255, 0.04);
+	box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+	backdrop-filter: blur(4.9px);
+	-webkit-backdrop-filter: blur(4.9px);
+}
+
+/* imagem sobre */
+
+.imagemSobre {
+	width: 100%;
+}
+
+/* serviços */
+
+.servicesText.card{
+	height: 280px;
+	cursor: pointer;
+}
+
+.servicesIcon {
+	font-size: 36px;
+	text-align: center;
+	width: 100%;
+}
+
+.card-title {
+	text-align: center;
+}
+
+.card:hover .servicesIcon{
+	color: #E2B8AC;
+}
+
+.servicesText:hover {
+	border: 1px solid #E2B8AC;
+}
+
+.botao {
+	background-color: #000000;
+}
+
+.contactIcon{
+	font-size: 56px;
+	color: #98A7AC;
+}
+
+.footer-texto {
+	color: #949494;
+}
+
+#sobre, #habilidades, #portfolio, #portfolio2, #contato {
+	padding-top: 5rem;
+	padding-bottom: 5rem;
+}
