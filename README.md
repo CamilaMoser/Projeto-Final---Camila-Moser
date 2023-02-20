@@ -3,7 +3,7 @@ Projeto final do curso Desenvolvimento Front End: do zero ao primeiro site do pr
 
 ## Estrutura básica
 
-<p align= "justify">O projeto final </p>
+<p align= "justify">Este projeto foi implementado utilizando as técnicas aprendidas durante todo o curso do programa +praTi, as tecnologias e linguagens aprendidas no curso, foram utilizadas neste projeto final como: HTML, CSS, Javascript e Bootstrap. Foram utilizadas boas práticas de programação e de responsividade do site para diferentes dispositivos.</p>
 
 <br><br>
 
@@ -11,7 +11,7 @@ Projeto final do curso Desenvolvimento Front End: do zero ao primeiro site do pr
 
 ## Bootstrap
 
-<p align= "justify"> Phasellus vel porta ligula. Nunc ullamcorper ultrices magna in ultricies. Etiam a consequat felis, vel feugiat enim. Pellentesque id ligula ut metus laoreet rhoncus sed quis ante. Integer est lacus, lobortis ut iaculis in, convallis ac nulla. Nullam magna felis, commodo sit amet mauris eget, placerat tincidunt erat. Nam in nisi mi. Sed malesuada velit vitae fringilla lobortis. Vestibulum a lorem metus. Maecenas venenatis, tortor id imperdiet blandit, nulla purus iaculis lacus, at viverra lorem purus eget dui. Donec hendrerit dui sit amet ultrices accumsan. Donec cursus, risus eu ornare ornare, nibh nisl interdum enim, sit amet hendrerit lectus ligula nec sapien. Vestibulum volutpat ornare purus eget vehicula. Mauris dignissim ex vel augue volutpat tincidunt. Fusce varius varius nisl.</p>
+<p align= "justify"> Foi escolhido o framework Bootstrap para a criação dos componentes visuais do site como botões, tipografia, links e menus. Com o framework bootstrap facilita a implementação destes componentes mantendo um padrão visual e reutilizável.</p>
 
 ![Captura de tela 2023-02-13 170949](https://user-images.githubusercontent.com/118773074/218564631-b63c7259-6f14-47c1-ad3d-131e0607ec3c.png)
 
