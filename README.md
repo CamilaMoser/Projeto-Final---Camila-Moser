@@ -30,10 +30,7 @@ Projeto final do curso Desenvolvimento Front End: do zero ao primeiro site do pr
 <p align= "justify"> Curabitur eget velit iaculis, ultrices lorem eget, malesuada metus. Suspendisse et justo sodales, congue turpis condimentum, interdum dui. Aliquam enim nunc, suscipit ut ante vel, finibus cursus ipsum. Aliquam erat volutpat. Maecenas est diam, lacinia vitae lacus eget, tempor hendrerit neque. Sed diam ligula, eleifend vel volutpat sed, tempus in sapien. Cras a ornare nulla, a malesuada lectus. Suspendisse potenti. Maecenas mollis dui id accumsan faucibus.</p>
 
 <p float="left" align= "center">
-  <img height="250" src="https://user-images.githubusercontent.com/118773074/218563918-b0b15b59-f5f5-4b05-8a0c-e7309192ad2e.png">
-  <img height="250" src="https://user-images.githubusercontent.com/118773074/218564242-db48fbcb-2e09-4a83-89d7-c04e223ee926.png">
-  
-  <img height="250" src="https://user-images.githubusercontent.com/118773074/218887501-1920a2a6-a673-4498-899b-3509bbe64c15.png">
+  <img height="250" src="img/glassmorphism.png">
 </p>
 
 <br><br>
