@@ -41,7 +41,7 @@ Projeto final do curso Desenvolvimento Front End: do zero ao primeiro site do pr
 <p align= "justify"> Abaixo alguns projetos que foram desenvolvidos durante o curso.</p>
 
 <p align= "center">
-  <img height="250" src="img/EstantedeLivros.png">
+  <img height="250" href="https://camilamoser.github.io/Estante-de-Livros/" src="img/EstantedeLivros.png">
   <img height="250" src="img/LocadoradeFilmes.png">
   <img height="250" src="img/SiteReceitas.png">
   <img height="250" src="img/Cartao.PNG">
