@@ -41,14 +41,14 @@ Projeto final do curso Desenvolvimento Front End: do zero ao primeiro site do pr
 <p align= "justify"> Abaixo alguns projetos que foram desenvolvidos durante o curso.</p>
 
 <p align= "center">
-  <img height="100" src="img/EstantedeLivros.png">
-  <img height="100" src="img/LocadoradeFilmes.png">
-  <img height="100" src="img/SiteReceitas.png">
-  <img height="100" src="img/Cartao.PNG">
+  <img height="250" src="img/EstantedeLivros.png">
+  <img height="250" src="img/LocadoradeFilmes.png">
+  <img height="250" src="img/SiteReceitas.png">
+  <img height="250" src="img/Cartao.PNG">
 </p>
 
 
 </p>
 <p align="center">
-<a align="center" href="https://github.com/ProfTau" target="_blank"> <br>link de alguma coisa</a>
+<a align="center" href="https://github.com/CamilaMoser" target="_blank"> <br>Mais projetos acesse aqui!</a>
 </p>
