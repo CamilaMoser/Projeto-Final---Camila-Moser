@@ -26,7 +26,7 @@ Projeto final do curso Desenvolvimento Front End: do zero ao primeiro site do pr
 
 ## Glassmorphism
 
-<p align= "justify"> Curabitur eget velit iaculis, ultrices lorem eget, malesuada metus. Suspendisse et justo sodales, congue turpis condimentum, interdum dui. Aliquam enim nunc, suscipit ut ante vel, finibus cursus ipsum. Aliquam erat volutpat. Maecenas est diam, lacinia vitae lacus eget, tempor hendrerit neque. Sed diam ligula, eleifend vel volutpat sed, tempus in sapien. Cras a ornare nulla, a malesuada lectus. Suspendisse potenti. Maecenas mollis dui id accumsan faucibus.</p>
+<p align= "justify"> O Glassmorphism é uma proposta de design minimalista e que visa reproduzir uma sensação mais realista nos componente, é uma tentativa de simular uma película de vidro em alguma aplicação.</p>
 
 <p align= "center">
   <img height="400" src="img/glassmorphism.png">
@@ -36,18 +36,17 @@ Projeto final do curso Desenvolvimento Front End: do zero ao primeiro site do pr
 
 <hr>
 
-## Conheça outros projetos
+## Outros projetos
 
-<p align= "justify"> Curabitur eget velit iaculis, ultrices lorem eget, malesuada metus. Suspendisse et justo sodales, congue turpis condimentum, interdum dui. Aliquam enim nunc, suscipit ut ante vel, finibus cursus ipsum.</p>
+<p align= "justify"> Abaixo alguns projetos que foram desenvolvidos durante o curso.</p>
 
-<p float="left" align= "center">
-  <img height="100" src="https://user-images.githubusercontent.com/118773074/218564850-52e9f2ac-8586-4f27-b165-458d536f7897.png">
-  <img height="100" src="https://user-images.githubusercontent.com/118773074/218564865-1cd1163b-e306-4959-8594-d52f2293d9b1.png">
-  <img height="100" src="https://user-images.githubusercontent.com/118773074/218564879-c4e1ff22-76f0-4324-8142-d20c82072577.png">
-  <img height="100" src="https://user-images.githubusercontent.com/118773074/218564891-9dc6c704-f85f-4342-8e45-e69a9ba9f9db.png">
+<p align= "center">
+  <img height="100" src="img/EstantedeLivros.png">
+  <img height="100" src="img/LocadoradeFilmes.png">
+  <img height="100" src="img/SiteReceitas.png">
+  <img height="100" src="img/Cartao.PNG">
 </p>
 
-<p align= "justify"> Maecenas est diam, lacinia vitae lacus eget, tempor hendrerit neque. Sed diam ligula, eleifend vel volutpat sed, tempus in sapien. Cras a ornare nulla, a malesuada lectus. Suspendisse potenti. Maecenas mollis dui id accumsan faucibus.</p>
 
 </p>
 <p align="center">
