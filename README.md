@@ -42,9 +42,9 @@ Projeto final do curso Desenvolvimento Front End: do zero ao primeiro site do pr
 
 <p align= "center">
   <a href="https://camilamoser.github.io/Estante-de-Livros/"><img height="250" src="img/EstantedeLivros.png"></a>
-  <img height="250" src="img/LocadoradeFilmes.png">
-  <img height="250" src="img/SiteReceitas.png">
-  <img height="250" src="img/Cartao.PNG">
+  <a href="https://camilamoser.github.io/Locadora-de-Filmes/"><img height="250" src="img/LocadoradeFilmes.png"></a>
+  <a href="https://camilamoser.github.io/Cadastro-de-Receitas/"><img height="250" src="img/SiteReceitas.png"></a>
+  <a href="https://camilamoser.github.io/Cartao-de-Visita/"><img height="250" src="img/Cartao.PNG"></a>
 </p>
 
 
