@@ -3,7 +3,7 @@ Projeto final do curso Desenvolvimento Front End: do zero ao primeiro site do pr
 
 
 <p align="center">
-<a href="https://camilamoser.github.io/Projeto-Final-Camila-Moser/">Link do projeto</a>
+<a href="https://camilamoser.github.io/Projeto-Final-Camila-Moser/">Link do GitHub Pages</a>
 </p>
 
 
